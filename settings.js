@@ -19,7 +19,7 @@
   }
 
   // Setting Owner
-  global.owner = ['6285751595672','6285751595672','6285751595672'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['6285751595672'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
   global.premium = ['6282297308066','6285751595672'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
   global.ownernomer = '6285751595672' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
@@ -50,7 +50,7 @@
 
   // Set Image Welcome
   //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-  global.BgWelcLeav = 'https://telegra.ph/file/9e6d57b036201b4053cbe.jpg'
+  global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
 
   // Random Image Menu
   //gausah di apa² in!
