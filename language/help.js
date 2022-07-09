@@ -152,8 +152,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
   ✎ ${prefix}toxic [teks]
   ✎ ${prefix}marvel [teks|teks]
   ✎ ${prefix}potter [teks]
-  ✎ ${prefix}pornhub [teks|teks]
-
+  
   *(8) Photooxy Menu*
   ✎ ${prefix}3d-underwater  
   ✎ ${prefix}3dtext-pig  
@@ -186,7 +185,6 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
   ✎ ${prefix}cry
   ✎ ${prefix}hug
   ✎ ${prefix}awoo
-  ✎ ${prefix}kiss
   ✎ ${prefix}lick
   ✎ ${prefix}pat
   ✎ ${prefix}smug
@@ -278,8 +276,6 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
   ✎ ${prefix}cekganteng
   ✎ ${prefix}cantikcek
   ✎ ${prefix}cekcantik
-  ✎ ${prefix}sangecek
-  ✎ ${prefix}ceksange
   ✎ ${prefix}gaycek
   ✎ ${prefix}cekgay
   ✎ ${prefix}lesbicek
@@ -746,7 +742,6 @@ wa.me/${ownernomer}
   ✎ ${prefix}toxic [teks]
   ✎ ${prefix}marvel [teks|teks]
   ✎ ${prefix}potter [teks]
-  ✎ ${prefix}pornhub [teks|teks]
   `
   }
 
@@ -792,7 +787,6 @@ wa.me/${ownernomer}
   ✎ ${prefix}cry
   ✎ ${prefix}hug
   ✎ ${prefix}awoo
-  ✎ ${prefix}kiss
   ✎ ${prefix}lick
   ✎ ${prefix}pat
   ✎ ${prefix}smug
@@ -869,6 +863,7 @@ wa.me/${ownernomer}
 exports.nsfwmenu = (prefix) => {
   return`
   *(11) Nsfw Menu*
+
   ✎ *TOBAT KAWAND* 🗿
   `
   }
@@ -899,8 +894,6 @@ exports.nsfwmenu = (prefix) => {
   ✎ ${prefix}cekganteng
   ✎ ${prefix}cantikcek
   ✎ ${prefix}cekcantik
-  ✎ ${prefix}sangecek
-  ✎ ${prefix}ceksange
   ✎ ${prefix}gaycek
   ✎ ${prefix}cekgay
   ✎ ${prefix}lesbicek
